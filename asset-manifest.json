@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4ffbcbb.css",
-    "main.js": "/static/js/main.015da6c5.js",
-    "static/js/937.beb3e6ca.chunk.js": "/static/js/937.beb3e6ca.chunk.js",
-    "static/media/LLW.svg": "/static/media/LLW.fc34aec7e164a8f0ca87f943106fb7b1.svg",
-    "static/media/LW.svg": "/static/media/LW.dc018784117e91cc32e91f043652a2f1.svg",
-    "index.html": "/index.html",
-    "main.a4ffbcbb.css.map": "/static/css/main.a4ffbcbb.css.map",
-    "main.015da6c5.js.map": "/static/js/main.015da6c5.js.map",
-    "937.beb3e6ca.chunk.js.map": "/static/js/937.beb3e6ca.chunk.js.map"
+    "main.css": "/CyberCup/static/css/main.a4ffbcbb.css",
+    "main.js": "/CyberCup/static/js/main.b956aae1.js",
+    "static/js/937.beb3e6ca.chunk.js": "/CyberCup/static/js/937.beb3e6ca.chunk.js",
+    "static/media/LLW.svg": "/CyberCup/static/media/LLW.fc34aec7e164a8f0ca87f943106fb7b1.svg",
+    "static/media/LW.svg": "/CyberCup/static/media/LW.dc018784117e91cc32e91f043652a2f1.svg",
+    "index.html": "/CyberCup/index.html",
+    "main.a4ffbcbb.css.map": "/CyberCup/static/css/main.a4ffbcbb.css.map",
+    "main.b956aae1.js.map": "/CyberCup/static/js/main.b956aae1.js.map",
+    "937.beb3e6ca.chunk.js.map": "/CyberCup/static/js/937.beb3e6ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4ffbcbb.css",
-    "static/js/main.015da6c5.js"
+    "static/js/main.b956aae1.js"
   ]
 }
