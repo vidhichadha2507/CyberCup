@@ -1,0 +1,51 @@
+.landing {
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.left-col {
+    z-index: 10;
+    position: relative;
+    margin: 2rem;
+    padding: 6rem 0.75rem;
+    /* background-color: rgba(255, 255, 255, 0.1); */
+    border-radius: 0.25rem;
+    display: flex;
+    text-align: center;
+    min-height: 25vh;
+}
+
+.right-col {
+    z-index: 10;
+    position: relative;
+    margin: 2rem;
+    padding: 0.75rem;
+    border-radius: 0.25rem;
+    min-height: 25vh;
+    display: flex;
+}
+
+.date {
+    font-size: 1.5rem;
+    /* font-weight: bold; */
+    margin: 1rem 0.5rem;
+}
+
+.ccl {
+    margin: 1rem 0.2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .left-col {
+        margin: 0.5rem;
+        padding: 0.25rem;
+        padding-top: 5rem;
+    }
+    .right-col {
+        margin: 0.5rem;
+        padding: 0.25rem;
+    }
+    .ccl {
+        margin: 1.5rem 0.2rem;
+    }
+}

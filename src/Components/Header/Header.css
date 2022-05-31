@@ -1,0 +1,15 @@
+.header .navbar .container .navbar-brand,
+.header .navbar .container .navbar-brand img,
+.header .navbar .container .nav-link {
+    color: var(--cc--text-color-primary);
+    margin: 0 0.25rem;
+}
+
+.header .navbar .container {
+    padding: 0 0.75rem;
+}
+
+.header {
+    z-index: 10;
+    position: relative;
+}

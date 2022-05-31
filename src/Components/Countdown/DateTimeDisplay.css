@@ -1,0 +1,32 @@
+.cell {
+    padding: 1em;
+    margin: 0.75em;
+    border: 2px solid var(--cc-text-color-secondary);
+    display: inline-block;
+    border-radius: 0.25em;
+    text-align: center;
+}
+
+.cell.danger {
+    border: 2px solid red;
+}
+
+.cell>p {
+    color: var(--cc-text-color-primary);
+    font-size: 1.5rem;
+    margin: 2px;
+}
+
+.cell>span {
+    color: var(--cc-text-color-secondary);
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .cell>p {
+        font-size: 2rem;
+    }
+    .cell>span {
+        font-size: 1.5rem;
+    }
+}

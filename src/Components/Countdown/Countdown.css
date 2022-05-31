@@ -1,0 +1,24 @@
+.show-counter {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.show-counter>p {
+    color: var(--cc-accent-color-primary);
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.expired-notice {
+    color: red;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .sec {
+        display: none;
+    }
+}
