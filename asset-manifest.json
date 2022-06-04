@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CyberCup/static/css/main.a4ffbcbb.css",
-    "main.js": "/CyberCup/static/js/main.b956aae1.js",
+    "main.css": "/CyberCup/static/css/main.1e387b7a.css",
+    "main.js": "/CyberCup/static/js/main.7d7ad5be.js",
     "static/js/937.beb3e6ca.chunk.js": "/CyberCup/static/js/937.beb3e6ca.chunk.js",
     "static/media/LLW.svg": "/CyberCup/static/media/LLW.fc34aec7e164a8f0ca87f943106fb7b1.svg",
     "static/media/LW.svg": "/CyberCup/static/media/LW.dc018784117e91cc32e91f043652a2f1.svg",
     "index.html": "/CyberCup/index.html",
-    "main.a4ffbcbb.css.map": "/CyberCup/static/css/main.a4ffbcbb.css.map",
-    "main.b956aae1.js.map": "/CyberCup/static/js/main.b956aae1.js.map",
+    "main.1e387b7a.css.map": "/CyberCup/static/css/main.1e387b7a.css.map",
+    "main.7d7ad5be.js.map": "/CyberCup/static/js/main.7d7ad5be.js.map",
     "937.beb3e6ca.chunk.js.map": "/CyberCup/static/js/937.beb3e6ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ffbcbb.css",
-    "static/js/main.b956aae1.js"
+    "static/css/main.1e387b7a.css",
+    "static/js/main.7d7ad5be.js"
   ]
 }

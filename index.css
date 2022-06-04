@@ -13,12 +13,12 @@
     --cc-text-color-secondary: #D5D5D5;
     --cc-background-color-primary: #121212;
     --cc-background-color-secondary: #595959;
-    --cc-accent-color-primary: #8E008E;
+    --cc-accent-color-primary: red;
     --cc-accent-color-secondary: #0B940B;
 }
 
 body {
-    background-color: var(--cc-background-color-primary);
-    color: var(--cc-text-color-primary);
+    background-color: var(--cc-background-color-primary) !important;
+    color: var(--cc-text-color-primary) !important;
     z-index: 2 !important;
 }
