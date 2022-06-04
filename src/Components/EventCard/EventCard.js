@@ -1,10 +1,16 @@
-import React, {Component} from 'react';
+import React from 'react';
+
+import Button from "react-bootstrap/Button";
 
 import "./EventCard.css";
 
-function EventCard(props){
+const EventCard = (props) => {
     return( 
-        <div className="event-card"></div>
+        <div className="event-card">
+            <h2>{props.eventName}</h2>
+            <p>{props.eventDesc}</p>
+            <Button>Register</Button>
+        </div>
     )
 }
 export default EventCard;

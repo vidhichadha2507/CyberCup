@@ -27,7 +27,7 @@ function Animation(props) {
                                 "value": 75,
                                 "density": {
                                     "enable": true,
-                                    "value_area": 1201.2974011932886
+                                    "value_area": 1201
                                 }
                             },
                             "color": {
