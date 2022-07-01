@@ -3,8 +3,7 @@ import './App.css';
 import Header from './Components/Header/Header';
 import Landing from './Sections/Landing/Landing';
 import Event from './Sections/Event/Event';
-import Sponsor from './Sections/Sponsors/Sponsors';
-import Team from './Sections/Team/Team';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -12,8 +11,7 @@ function App() {
       <Header></Header>
       <Landing></Landing>
       <Event></Event>
-      <Sponsor></Sponsor>
-      <Team></Team>
+      <Footer></Footer>
     </div>
   );
 }

@@ -1,0 +1,38 @@
+.footer {
+    background-color: #1e1e1e;
+    color: var(--cc-text-color-primary);
+    position: relative;
+    z-index: 10 !important;
+    min-width: 100%;
+    padding: 3rem 0.5rem;
+}
+
+.footer h3 {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--cc-text-color-secondary);
+}
+
+.footer .social-media a {
+    text-decoration: none;
+    padding: 2px;
+}
+
+.footer .social-media a .icon {
+    font-size: 2rem;
+    color: var(--cc-text-color-primary);
+    margin: 8px 18px;
+}
+
+.footer .social-media a .icon:visited,
+.footer .social-media a .icon:hover,
+.footer .social-media a .icon:active {
+    color: var(--cc-accent-color-primary);
+}
+
+.footer p {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #999;
+}

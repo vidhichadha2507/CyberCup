@@ -9,7 +9,7 @@ import Nav from 'react-bootstrap/Nav';
 const Header = (props) => {
     return (
         <div className="header">
-            <Navbar bg="dark" expand="lg">
+            <Navbar class="navbar-dark" bg="transparent" expand="lg">
                 <Container>
                     <Navbar.Brand>
                         <img
@@ -25,8 +25,8 @@ const Header = (props) => {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
-                            <Nav.Link href="#">Events</Nav.Link>
-                            <Nav.Link href="#">Sponsors</Nav.Link>
+                            <Nav.Link href="#event">Events</Nav.Link>
+                            <Nav.Link href="#sponsors">Sponsors</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

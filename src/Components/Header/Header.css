@@ -13,3 +13,8 @@
     z-index: 10;
     position: relative;
 }
+
+/*Changing color of hamburger icon*/
+.header .navbar .container > button > span.navbar-toggler-icon {
+    filter: invert(1);
+}

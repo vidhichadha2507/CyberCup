@@ -31,8 +31,7 @@ function Landing(props) {
                             5<sup>th</sup> - 9<sup>th</sup> September, 2022
                         </h1>
                         <div className="actions d-flex justify-content-center flex-column flex-md-row">
-                            <Button variant="primary m-2">Register</Button>
-                            <Button variant="success m-2">Become a volunteer</Button>
+                            <Button variant="primary m-2">Sponsor</Button>
                         </div>
                     </Col>
                     <Col className="right-col justify-content-center align-items-center"
@@ -42,7 +41,7 @@ function Landing(props) {
                         lg={{ span: 5, order: 2 }}
                     >
                         <Countdown
-                            targetDate={new Date("2022-08-07")}
+                            targetDate={new Date("2022-09-05")}
                             ExpiredMessage="Let the Events Begin!"
                         />
                     </Col>
