@@ -20,7 +20,7 @@ const Event = (props) => {
             }
         }
         active.classList.add("active");
-        window.location = "CyberCup#desc";
+        window.location = "#desc";
     });
 
     return(
